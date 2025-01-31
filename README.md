@@ -1,5 +1,5 @@
 # **Internet Sales Capstone project**
-The Complete Power BI Practical Course 2025 training by [365 careers](https://365datascience.com/). <br>
+Online cycling accessories for sale, **The Complete Power BI Practical Course 2025** training by [365 careers](https://365datascience.com/). <br>
 Completed project files (datasets, powerbi) have been made available on this repository.
 
 
