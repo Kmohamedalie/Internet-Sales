@@ -1,12 +1,7 @@
-# ADVENTURE WORKs bike 🚲 shop capstone project 📊
-Microsoft Power BI Desktop🖥️ for Business Intelligence 📊 training by [Maven Analytics](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/). <br>
-Completed project finals are available on demand [write me! ✍🏼](https://www.linkedin.com/in/mohamed-alie-kamara-8765941a4/)
+# **Internet Sales Capstone project**
+The Complete Power BI Practical Course 2025 training by [365 careers](https://365datascience.com/). <br>
+Completed project files (datasets, powerbi) have been made available on this repository.
 
-<br>
-<br>
-
-
-![image](https://github.com/user-attachments/assets/8057f6db-69c4-4d11-ae2a-24598931c55a)
 
 <br>
 
@@ -20,29 +15,20 @@ Completed project finals are available on demand [write me! ✍🏼](https://www
 
 <br>
 
-### **Report pages (Navigation):** <br>
-
-|      Page 1     |    Page 2     | Page 3             |     Page 4       | 
-| ----------------| ------------- | ------------------ | -----------------|
-|Executive Dashboard 💼| Map 🗺️       | Product Detail 🧾 |Customer Detail 🙍🏼‍♀️|
-
-
-<br>
 
 ### **Final project demo:** <br>
 
-https://github.com/user-attachments/assets/9cfc4529-0308-4333-94f1-93f87f986aa3
 
 
+https://github.com/user-attachments/assets/4db3addc-639d-4dbe-b70a-0867652d8981
 
 
 <br>
-<br>
 
-### **Extra features:**
-- Button slicer 🔳:  creating custom new cards including images and pagination.
+### **Model view:** <br>
 
 
-https://github.com/user-attachments/assets/c20969fe-61b7-4b11-976e-0091b0697b54
+
+![model view](https://github.com/user-attachments/assets/ac7b98a9-9c78-4972-8015-4ffe1d0ce60d)
 
 
